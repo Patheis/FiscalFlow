@@ -1,0 +1,15 @@
+2025-01-21 11:38:16,704 - INFO - package: mysql.connector.plugins
+2025-01-21 11:38:16,704 - INFO - plugin_name: caching_sha2_password
+2025-01-21 11:38:16,704 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-01-21 11:38:16,705 - INFO - Conexão com o banco de dados bem-sucedida.
+2025-01-21 11:38:17,521 - INFO - Login bem-sucedido para o usuário: admin
+2025-01-21 11:38:17,521 - INFO - Conexão com o banco de dados encerrada.
+2025-01-21 11:41:21,767 - INFO - Conexão com o banco de dados bem-sucedida.
+2025-01-21 11:41:22,545 - INFO - Login bem-sucedido para o usuário: vinicim
+2025-01-21 11:41:22,546 - INFO - Conexão com o banco de dados encerrada.
+2025-01-21 11:43:50,721 - INFO - Conexão com o banco de dados bem-sucedida.
+2025-01-21 11:43:52,281 - WARNING - Falha no login para o usuário: vinicim
+2025-01-21 11:43:52,281 - INFO - Conexão com o banco de dados encerrada.
+2025-01-21 11:43:54,415 - INFO - Conexão com o banco de dados bem-sucedida.
+2025-01-21 11:43:55,697 - INFO - Login bem-sucedido para o usuário: vinicim
+2025-01-21 11:43:55,698 - INFO - Conexão com o banco de dados encerrada.
